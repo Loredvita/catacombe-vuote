@@ -9,8 +9,9 @@ body {
 header {
     background-color: #af4c4c;
     color: white;
-    padding: 15px;
-    text-align: left;
+    padding: 3px;
+    text-align: center;
+    font-size: 10px;
 }
 
 nav {
@@ -20,10 +21,10 @@ nav {
 }
 
 nav a {
-    float: left;
+    float: right;
     display: block;
     color: white;
-    text-align: right;
+    text-align: left;
     padding: 7px 10px;
     text-decoration: none;
     font-size: 40px;
