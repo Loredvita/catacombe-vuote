@@ -38,14 +38,14 @@ nav a:hover {
 }
 
 main {
-    padding: 20px;
+    padding: 50px;
 }
 
 footer {
     background-color: #333;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
     position: fixed;
     left: 0;
     bottom: 0;
